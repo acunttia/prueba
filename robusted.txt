@@ -1,0 +1,6 @@
+Canal 100 La otra Informacion no disponible.
+canal 103 8 madrid  Informacion no disponible
+canal 104 kiss informacion no disponible
+canal 200  informacion no disponible
+201,202,203,204,205,206,207,208
+230 al 300 sin informacion
